@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Node.js, MongoDB, React, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [jrgiacone.github.io](jrgiacone.github.io)
+- 👨‍💻 All of my projects are available at [https://jrgiacone.github.io/](jrgiacone.github.io)
 
 - 💬 Ask me about **Javascript**
 
